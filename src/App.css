@@ -1,0 +1,12 @@
+.App {
+  margin-top: -16px;
+}
+
+.container {
+  border: 2px solid black;
+  height: 100em;
+
+  text-align: center;
+  padding-top: 25vh;
+  margin-top: -34px;
+}

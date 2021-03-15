@@ -1,0 +1,27 @@
+.reg-contain {
+  border: 3px solid red;
+  display: inline-block;
+  padding: 5px 30px;
+}
+
+label {
+  font-size: x-large;
+  margin-right: 10px;
+}
+input {
+  border: 2px solid black;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+button {
+  border: 2px solid grey;
+  background-color: black;
+  color: whitesmoke;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}

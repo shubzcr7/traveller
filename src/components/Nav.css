@@ -1,0 +1,30 @@
+.head {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.item {
+  padding: 20px 10px;
+  margin-right: 2%;
+}
+
+.links {
+  text-decoration: none;
+  color: whitesmoke;
+}
+#item2 {
+  margin-left: auto;
+}
+
+@media screen and (max-width: 400px) {
+  .item {
+    flex-basis: 100%;
+  }
+}
